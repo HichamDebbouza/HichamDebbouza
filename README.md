@@ -8,4 +8,4 @@
 I'm studing at school in __France__. 
 
 
-* 📋 Last project [CV]https://github.com/HichamDebbouza/Curriculum-Vitae
+* 📋 Last project [CV](https://github.com/HichamDebbouza/Curriculum-Vitae)
